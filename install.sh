@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ╔══════════════════════════════════════════════════════════╗
-# ║   Универсальный установщик Arch Linux + Окружение      ║
-# ║   Hyprland | GNOME | KDE Plasma | XFCE | Sway | Cinnamon║
+# ║   Универсальный установщик Arch Linux + Окружение        ║
+# ║   Hyprland | GNOME | KDE Plasma | XFCE | Sway | Cinnamon ║
 # ║                  + Noctalia Shell (AUR)                  ║
 # ╚══════════════════════════════════════════════════════════╝
 set -euo pipefail
