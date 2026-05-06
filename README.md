@@ -1,5 +1,6 @@
 <h1>
-<br>curl -LO https://raw.githubusercontent.com/ваш_логин/arch-hypr-install/main/install.sh
+curl -LO https://raw.githubusercontent.com/ваш_логин/arch-hypr-install/main/install.sh
+  <br/>
 chmod +x install.sh
   <br/>
 sudo ./install.sh
